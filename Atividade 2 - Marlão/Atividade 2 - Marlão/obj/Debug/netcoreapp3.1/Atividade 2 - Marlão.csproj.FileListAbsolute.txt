@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\bin\Debug\netcoreapp3.1\Atividade 2 - Marlão.exe
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\bin\Debug\netcoreapp3.1\Atividade 2 - Marlão.deps.json
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\bin\Debug\netcoreapp3.1\Atividade 2 - Marlão.runtimeconfig.json
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\bin\Debug\netcoreapp3.1\Atividade 2 - Marlão.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\bin\Debug\netcoreapp3.1\Atividade 2 - Marlão.dll
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\bin\Debug\netcoreapp3.1\Atividade 2 - Marlão.pdb
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\obj\Debug\netcoreapp3.1\Atividade 2 - Marlão.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\obj\Debug\netcoreapp3.1\Atividade 2 - Marlão.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\obj\Debug\netcoreapp3.1\Atividade 2 - Marlão.AssemblyInfo.cs
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\obj\Debug\netcoreapp3.1\Atividade 2 - Marlão.dll
+C:\Users\victo\source\repos\Atividade 2 - Marlão\Atividade 2 - Marlão\obj\Debug\netcoreapp3.1\Atividade 2 - Marlão.pdb
